@@ -1,0 +1,35 @@
+Belob
+Oleg
+Vladimirovich
+BIV256
+5 6 7 8 
+7.2
+
+Ivanov
+Alexander
+Maksimovich
+BIV249
+10 3 9 10 
+7.4
+
+Belob
+Oleg
+Vladimirovich
+BIV256
+5 6 7 8 
+7.2
+
+Romanov
+Maksim
+Vladimirovich
+BIV249
+8 5 3 9 
+6
+
+Boev
+Andrey
+Olegovich
+BIV238
+1 2 3 4 
+3
+
